@@ -5,3 +5,5 @@ The End.
 
 Next Stage:
 No fast forward
+Coding when bug experence
+Debug over and come back code.

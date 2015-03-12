@@ -9,3 +9,4 @@ Coding when bug experence
 Debug over and come back code.
 
 This is writen from original person.
+Another computer dev this sys.

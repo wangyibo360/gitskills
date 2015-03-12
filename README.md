@@ -1,7 +1,7 @@
 # gitskills
 Add a new branch.
 The master conflict here.
-The End.
+Not End.
 
 Next Stage:
 No fast forward
